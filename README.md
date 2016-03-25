@@ -14,11 +14,11 @@ Abaixo explicaremos o que queremos construir de forma autonoma econectada a nuve
 ####Concluido
 #####Modulo Watts - Arduino + sensor de amperagem 'consumo' 
 
-####Modulo Arduino + sensor humidade e temperatura SHT11x 
+#####Modulo Boltzmann - Arduino + sensor humidade e temperatura SHT11x 
 
 ####Em andamento
 #####Modulo Liga/Desliga - Arduino + 10 reles 
-
+#####Modulo GrowBOX - Arduino + Sensor PH + 3 Valvulas Solenoide + Sensor Condutividade Eletrica 'EC' + 3 Rele
 
 ####Links on-topic
 
