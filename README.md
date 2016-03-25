@@ -9,7 +9,7 @@ http://hugreen.solar
 http://x.mirako.org
 
 
-+Abaixo explicaremos o que queremos construir de forma autonoma econectada a nuvem, de forma coletiva e aberta.
+=Abaixo explicaremos o que queremos construir de forma autonoma econectada a nuvem, de forma coletiva e aberta.
 
 ##Concluido
 Modulo Watts - Arduino + sensor de amperagem 'consumo' 
@@ -28,4 +28,4 @@ https://vimeo.com/123148337
 
 
 
-Me chamem de SantoCyber, não sei o dia e o mes ou o ano que estou, mas continuo , a viajar no espaço a temporal, girando ao redor de galaxias e atraves delas, a velhice eh uma doença, chega sileciosamente, mas com inovação tecnologica e desenvolvimento sustentavel, podemos fazer um mundo melhor, o mundo da economia compartilhada, não ha mais espaço para muros.
+Me chamem de SantoCyber, não sei o dia e o mes ou o ano que estou, mas continuo , a viajar no espaço a temporal, girando ao redor de galaxias e atraves delas, a velhice eh uma doença, chega sileciosamente, mas com inovação tecnologica e desenvolvimento sustentavel, podemos fazer um mundo melhor, o mundo da economia compartilhada, não ha mais espaço para muros, um mundo onde a vida eh eterna, virus editores de DNA, ultrasom ultrafocalizado, SmartCity, SmartHouses, smartphones, smartpeople... 
