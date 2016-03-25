@@ -12,9 +12,9 @@ http://x.mirako.org
 Abaixo explicaremos o que queremos construir de forma autonoma econectada a nuvem, de forma coletiva e aberta.
 
 ####Concluido
-#####Modulo Watts = Arduino + sensor de amperagem 'consumo' 
+#####Modulo Watts = Arduino + sensor de amperagem 'consumo' + shield ethernet
 
-#####Modulo Boltzmann = Arduino + sensor humidade e temperatura SHT11x 
+#####Modulo Boltzmann = Arduino + sensor humidade e temperatura SHT11x + shield ethernet
 
 ####Em andamento
 #####Modulo Liga/Desliga = Arduino + 10 reles 
