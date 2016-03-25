@@ -1,7 +1,9 @@
 # SmartVila-proteus
 
 Bem vindo a SmartVila Proteus Hugreen.Solar
+
 Iot - IdC
+
 http://hugreen.solar
 http://x.mirako.org
 
@@ -10,9 +12,10 @@ Abaixo explicaremos o que queremos construir de forma autonoma econectada a nuve
 
 Concluido
 Modulo Watts - Arduino + sensor de amperagem 'consumo' 
-Modulo Arduino + sensor humidade e temperatura SHT11x Humidade temperaura
 
-Em andamento
+Modulo Arduino + sensor humidade e temperatura SHT11x 
+
+#Em andamento
 Modulo Liga/Desliga - Arduino + 10 reles 
 
 
